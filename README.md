@@ -26,5 +26,6 @@ The script will install Apache web server on the virtual machine for testing pur
 
 # Notes
 
-Create the Json file for authentication --> https://gmusumeci.medium.com/how-to-create-a-service-account-for-terraform-in-gcp-google-cloud-platform-f75a0cf918d1
+Create the .JSON file for authentication --> https://gmusumeci.medium.com/how-to-create-a-service-account-for-terraform-in-gcp-google-cloud-platform-f75a0cf918d1
 
+Blog --> https://gmusumeci.medium.com/how-to-deploy-a-debian-linux-vm-instance-in-gcp-using-terraform-65d872832218
