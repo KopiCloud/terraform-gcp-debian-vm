@@ -1,4 +1,4 @@
-# Deploy a GCP VM Instance in a public subnet with Terraform
+# Deploy a Debian VM Instance in GCP with Terraform
 
 The script will install Apache web server on the virtual machine for testing purposes.
 
